@@ -1,8 +1,8 @@
 # Hisham's User Page
 ## Table of Contents:
 1. [Go to Who Am I?](#who-am-i?)
-2. [Go to What Was My Education Like?](#education)
-3. [Go to Where It All Started?](#where-it-all-started)
+2. [Go to Where It All Started?](#where-it-all-started)
+3. [Go to What Was My Education Like?](#education)
 4. [Go to What Are My Passions and Hobbies?](#passions-and-hobbies)
 ## <a name="who-am-i?"></a> ***Who Am I?***  
 
