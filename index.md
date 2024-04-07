@@ -1,5 +1,5 @@
 # Hisham's User Page
-## <a name="who-am-i?"></a> ***Who Am I?***
+### <a name="who-am-i?"></a> ***Who Am I?***
 Hello World! My name is Hisham Baobaid, and I am currently a second-year undergraduate at UC San Diego, focusing on obtaining my Bachelor of Science degree in Computer Science.  
   
 <img src="linkedinprofile.jpg" width="200" height="200">    <---- This is me
