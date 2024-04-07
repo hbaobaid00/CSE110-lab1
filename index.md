@@ -33,6 +33,8 @@ Despite our hard work and time put into this project, it was not enough for my t
 
 ![IMG_0546](https://github.com/hbaobaid00/projects/assets/122493451/465ee99a-f0e3-4af7-8ef6-3c70e403b90a)
 
+<img src="![IMG_0546](https://github.com/hbaobaid00/projects/assets/122493451/465ee99a-f0e3-4af7-8ef6-3c70e403b90a)" width="300" height="200">
+
 ### <a name="education"></a> What Was My Education Like?:
 Insert info here 
 ### <a name="passions-and-hobbies"></a> ***What Are My Passions and Hobbies?***
