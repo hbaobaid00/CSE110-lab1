@@ -8,7 +8,7 @@
 ## <a name="who-am-i?"></a> ***Who Am I?***  
 
 
-> ${\color{#70ce1c}Hello \space \space World}$
+> ${\color{black}Hello \space \space World}$
 
 My name is Hisham Baobaid, and I am from San Diego, CA. I am currently a second-year undergraduate at [UC San Diego](https://ucsd.edu/), focusing on obtaining my Bachelor of Science degree in Computer Science.  
   
